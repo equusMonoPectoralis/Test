@@ -1,2 +1,3 @@
 # Test
-sdfdsfsqfThis file is edited to create a conflict fsfg
+This file is edited to create a conflict
+
